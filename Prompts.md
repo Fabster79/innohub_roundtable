@@ -79,3 +79,9 @@
 
 6.4 Bitte generiere dazu ein Bild. 
 
+
+**7.	*Bonus* Dashboard **
+
+7.1 Kannst Du mir ein Streamlit Dashboard erzeugen, mit dem ich Data Driven Personas erstellen kann? Ich möchte für die Gesamtausgaben, die Aufgaben für die Warengruppe und für das Einkommen Intervalle auswählen können. Für Familienstand, Bildungsgrad hätte ich gerne Dropdowns. Die Geburtsjahre gerne zu Jahrzehnten zusammengefasst. Auf dem Dashboard sollen Summen und Durchschnittswerte ersichtlich sein, und ganz wichtig, die Zahl der Personen. Bitte Analysiere Vorher noch mal das Dataset und achte auf das Trennzeichen ";"
+
+7.2 Kannst Du die extremen Ausreißer noch beim einlesen Filtern, sonst ist die Skalierung für die Auswahl der Intervalle so breit ?
